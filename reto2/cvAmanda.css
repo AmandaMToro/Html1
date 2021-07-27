@@ -1,0 +1,58 @@
+body{
+    background-color: lavenderblush;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    
+h1
+{
+   text-align: left;
+    color: rgb(226, 134, 180);
+    text-decoration: underline;
+    text-align: justify;
+}
+h3
+{
+    color:#A0522D;
+}
+legend
+{
+    color: white;
+    font-style: oblique;
+    background-color: rgb(226, 134, 180);
+    border:2px;
+    border-color: aliceblue;
+    border-style: solid;
+    margin-left: 20px;
+    width: 90px;
+    height: 27px;
+}
+legend2
+{
+    color: white;
+    font-style: oblique;
+    background-color: rgb(226, 134, 180);
+    border:2px;
+    border-color: aliceblue;
+    border-style: solid;
+    margin-left: 20px;
+}
+.imagen
+{
+
+   float:left;
+   margin-right: 20px;
+}
+
+p
+{
+   margin-left: 20px;
+    color: #A0522D;
+    width: 400px;
+    height: 150px;
+}
+
+p2 
+{
+    margin-left: 20px;
+    color: #A0522D;
+}
