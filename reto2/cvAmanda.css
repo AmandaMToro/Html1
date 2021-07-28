@@ -9,14 +9,13 @@ header
     text-align: center;
     color: rgb(226, 134, 180);
     text-decoration: underline;
-    
+  
 }
 
 .titulo
 {
     color:#A0522D;
     text-align: center;
-    
 }
 
 .contenido
@@ -49,6 +48,12 @@ p
     color: #A0522D;
     width: 500px;
     height: 150px;
+    
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     
 }
 
