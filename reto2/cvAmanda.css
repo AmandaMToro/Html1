@@ -1,58 +1,60 @@
 body{
+    
     background-color: lavenderblush;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-    
-h1
+
+header
 {
-   text-align: left;
+    text-align: center;
     color: rgb(226, 134, 180);
     text-decoration: underline;
-    text-align: justify;
+    
 }
-h3
+
+.titulo
 {
     color:#A0522D;
+    text-align: center;
+    
 }
-legend
-{
-    color: white;
-    font-style: oblique;
-    background-color: rgb(226, 134, 180);
-    border:2px;
-    border-color: aliceblue;
-    border-style: solid;
-    margin-left: 20px;
-    width: 90px;
-    height: 27px;
-}
-legend2
-{
-    color: white;
-    font-style: oblique;
-    background-color: rgb(226, 134, 180);
-    border:2px;
-    border-color: aliceblue;
-    border-style: solid;
-    margin-left: 20px;
-}
-.imagen
-{
 
-   float:left;
-   margin-right: 20px;
+.contenido
+{
+   width: 500px;
+   height:400px;
+   
+   margin:10px auto;
+   padding: 5px;
+
+}
+h4
+{
+    margin: 10px auto;
+    padding: 10px;
+    color: white;
+    font-style: oblique;
+    background-color: rgb(226, 134, 180);
+    padding: 15px;
+    border-color: aliceblue;
+    border-style: solid;
+    width: 120px;
+    height: 20px;
+    text-align: center;
 }
 
 p
 {
-   margin-left: 20px;
+    text-align: center;
     color: #A0522D;
-    width: 400px;
+    width: 500px;
     height: 150px;
+    
 }
 
-p2 
-{
-    margin-left: 20px;
-    color: #A0522D;
-}
+
+
+
+
+
+
